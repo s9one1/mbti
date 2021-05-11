@@ -1,0 +1,15 @@
+article {
+    display: flex; 
+    flex-direction: column;
+}
+
+.start {
+    display: flex;
+    flex-direction: column;
+}
+
+.qustion {
+    display: none;
+    
+}
+
